@@ -1,1 +1,3 @@
-# dojo-2019-06-05-trivia
+# Trivia (Refactoring Kata)
+
+https://github.com/jbrains/trivia
